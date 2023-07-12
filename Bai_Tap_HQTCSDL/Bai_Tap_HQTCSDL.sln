@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_Tap_HQTCSDL", "Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL.csproj", "{9DD27CF1-B4CF-4128-B671-ED87CF3B160D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD27CF1-B4CF-4128-B671-ED87CF3B160D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD27CF1-B4CF-4128-B671-ED87CF3B160D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD27CF1-B4CF-4128-B671-ED87CF3B160D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD27CF1-B4CF-4128-B671-ED87CF3B160D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {801C0E1D-B007-4449-B16C-F43FC0A2E7FE}
+	EndGlobalSection
+EndGlobal

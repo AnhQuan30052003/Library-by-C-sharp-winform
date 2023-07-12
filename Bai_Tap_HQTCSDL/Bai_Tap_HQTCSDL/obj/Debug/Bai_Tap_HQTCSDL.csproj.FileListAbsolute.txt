@@ -1,0 +1,154 @@
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe.config
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.NhanSu_DocGia.resources
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.Properties.Resources.resources
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe.config
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.Form1.resources
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.NhanSu_DocGia.resources
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.Properties.Resources.resources
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLiTongBo_TacGia.resources
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_ThuThu.resources
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyTongBo_DanhMucSach.resources
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\dell\Desktop\test\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_ThuThu.resources
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyTongBo_DanhMucSach.resources
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.DangNhap.resources
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.GiaoDien.resources
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyTongBo_LichSu.resources
+C:\Users\dell\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyTongBo_TacGia.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe.config
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.GiaoDien.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyTongBo_LichSu.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.Properties.Resources.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyTongBo_TacGia.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_ThuThu.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyTongBo_DanhMucSach.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\project1.DangNhap.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\1. File\1. File chính\winform\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_DocGia.resources
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe.config
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\project1.DangNhap.resources
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.GiaoDien.resources
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_DocGia.resources
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyTongBo_LichSu.resources
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.Properties.Resources.resources
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyTongBo_TacGia.resources
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_ThuThu.resources
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyTongBo_DanhMucSach.resources
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\Admin\Desktop\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe.config
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\project1.DangNhap.resources
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.GiaoDien.resources
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_DocGia.resources
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.Properties.Resources.resources
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_ThuThu.resources
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_TacGia.resources
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_DanhMucSach.resources
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_MuonTraSach.resources
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_LoaiSach.resources
+C:\Users\Admin\Desktop\file\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.ThongKe.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe.config
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\project1.DangNhap.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.GiaoDien.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_DocGia.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_LoaiSach.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_MuonTraSach.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.ThongKe.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.Properties.Resources.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_TacGia.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_ThuThu.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_DanhMucSach.resources
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe.manifest
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.application
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.exe.manifest
+C:\Users\Admin\Desktop\HQT CSDL\1. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.application
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe.config
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe.manifest
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.application
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.pdb
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.AssemblyReference.cache
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.SuggestedBindingRedirects.cache
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\project1.DangNhap.resources
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.GiaoDien.resources
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_DocGia.resources
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_LoaiSach.resources
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_MuonTraSach.resources
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.ThongKe.resources
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.Properties.Resources.resources
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_TacGia.resources
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_ThuThu.resources
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_DanhMucSach.resources
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.GenerateResource.cache
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.CoreCompileInputs.cache
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.exe.manifest
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.application
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.exe
+D:\documents\documents no import\NTU_Nha Trang University\01. Hệ quản trị cơ sở dữ liệu\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe.config
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe.manifest
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.application
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\bin\Debug\Bai_Tap_HQTCSDL.pdb
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\project1.DangNhap.resources
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.GiaoDien.resources
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_DocGia.resources
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_LoaiSach.resources
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_MuonTraSach.resources
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.ThongKe.resources
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.Properties.Resources.resources
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_TacGia.resources
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLyNhanSu_ThuThu.resources
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.QuanLySach_DanhMucSach.resources
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.exe.manifest
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.application
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.exe
+C:\Users\Admin\Desktop\4. Bài tập nhóm\Bai_Tap_HQTCSDL\Bai_Tap_HQTCSDL\obj\Debug\Bai_Tap_HQTCSDL.pdb
